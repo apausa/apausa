@@ -13,6 +13,10 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 [![Static Badge](https://img.shields.io/badge/-TypeScript-0d1117?syle=flat&logo=typescript)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Kotlin-0d1117?syle=flat&logo=kotlin)](https://github.com/apausa)
 
+### Most used 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apausa&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 [![Static Badge](https://img.shields.io/badge/-Angular-0d1117?syle=flat&logo=angular)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-CSS-0d1117?syle=flat&logo=css3)](https://github.com/apausa)
@@ -29,6 +33,8 @@ I am currently pursuing a dual degree in Software Development and Digital Design
 [![Static Badge](https://img.shields.io/badge/-Redux.js-0d1117?syle=flat&logo=redux)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Vue.js-0d1117?syle=flat&logo=vuedotjs)](https://github.com/apausa)
 
------
+## Other Interests
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apausa&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Stoic Philosophy • Art History • Quantum Computing • 
+
+
