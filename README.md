@@ -1,8 +1,11 @@
 # [Pablo Apausa](https://apausa.dev)
+## Software Engineer, Interaction Designer
+
+### About Me
 
 I am currently pursuing a dual degree in Software Development and Digital Design at UOC. Because of my interdisciplinary background I have the skills to approach projects with a holistic perspective.
 
-## Coding Languages
+### Coding Languages
 
 [![Static Badge](https://img.shields.io/badge/-Bash-0d1117?syle=flat&logo=gnubash)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-C-0d1117?syle=flat&logo=c)](https://github.com/apausa)
