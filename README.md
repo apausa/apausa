@@ -1,6 +1,6 @@
 # [Pablo Apausa](https://apausa.dev)
 
-I am currently pursuing a Dual Degree in Software Development and Digital Design. Because of my interdisciplinary studies I have the skills to approach projects with a holistic perspective.
+I am currently pursuing a Dual Degree in Software Development and Digital Design. My interdisciplinary studies allow me to work on projects with a holistic perspective.
 
 ## Coding Languages
 
