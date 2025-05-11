@@ -1,6 +1,4 @@
-# [Pablo Apausa](https://apausa.dev)
-
-With studies in software engineering and a background in interaction design, I have a holistic perspective that covers technical and creative domains.
+# [Pablo Apausa]()
 
 ## Coding Languages
 
