@@ -12,4 +12,3 @@ With two bachelor's degrees in software engineering and digital design, I have a
 [![Static Badge](https://img.shields.io/badge/-SQL-0d1117?syle=flat)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-TypeScript-0d1117?syle=flat&logo=typescript)](https://github.com/apausa)
 [![Static Badge](https://img.shields.io/badge/-Kotlin-0d1117?syle=flat&logo=kotlin)](https://github.com/apausa)
-
