@@ -1,6 +1,6 @@
 # [Pablo Apausa]()
 
-With studies in software engineering and a background in interaction design, I have a holistic perspective that covers technical and creative domains.
+With two bachelor's degrees in software engineering and digital design, I have a holistic perspective that covers technical and creative domains.
 
 ## Coding Languages
 
