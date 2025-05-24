@@ -1,7 +1,5 @@
 # [Pablo Apausa]()
 
-With two bachelor's degrees in software engineering and digital design, I have a holistic perspective that covers technical and creative domains.
-
 ## Coding Languages
 
 [![Static Badge](https://img.shields.io/badge/-Bash-0d1117?syle=flat&logo=gnubash)](https://github.com/apausa)
