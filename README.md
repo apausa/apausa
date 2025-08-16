@@ -1,16 +1,14 @@
+# Pablo Apausa
+
 ## Hi there 👋
 
-<!--
-**apausa/apausa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a software engineer and designer from Madrid
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on different projects
+🌱 I’m currently learning Artificial Intelligence at Technical University of Madrid
+👯 I’m looking to collaborate on creative coding
+🤔 I’m looking for help with new ideas
+💬 Ask me about computer science, machine learning or interaction design
+📫 How to reach me: [apausa.dev](https://wwww.apausa.dev)
+😄 Pronouns: he/him
+⚡ Fun fact: I have graduated with dual degrees in both arts and engineering
