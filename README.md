@@ -9,6 +9,6 @@
 👯 I’m looking to collaborate on creative coding  
 🤔 And for help with new ideas  
 💬 Ask me about computer science, machine learning or interaction design  
-📫 How to reach me: pablo[at]apausa[dot]dev
+📫 How to reach me: pablo[at]apausa[dot]dev  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I know what androids dream of  
