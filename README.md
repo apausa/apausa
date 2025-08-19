@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on different projects  
 🌱 And learning Artificial Intelligence at Technical University of Madrid  
-👯 I’m looking to collaborate on generative art  
-🤔 Also for help with new ideas  
+👯 I’m looking to collaborate on creative coding  
+🤔 And for help with new ideas  
 💬 Ask me about computer science, machine learning or interaction design  
 📫 How to reach me: [apausa.dev](https://wwww.apausa.dev)  
 😄 Pronouns: he/him  
-⚡ Fun fact: I have graduated with dual degrees in both arts and engineering  
+⚡ Fun fact: I know what androids dream of  
