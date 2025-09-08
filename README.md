@@ -47,6 +47,6 @@
 - webPokedex — Pokédex built with Vanilla JavaScript and SCSS.  
 - webGameOfLife — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
 
-### 2021
+### 2020
 
 - cLanguage — Initial exercises in C and Bash 
