@@ -45,7 +45,8 @@
 - [webReminders](https://github.com/apausa/webReminders) — Frontend application where users can write reminders.  
 - [webLyrics](https://github.com/apausa/webLyrics) — Application where users can read, save and filter song lyrics.  
 - [webPokedex](https://github.com/apausa/webPokedex) — Pokédex built with Vanilla JavaScript and SCSS.  
-- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
+- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with Vanilla JavaScript and SCSS.
+- ...among many other projects that year.
 
 ### 2020
 
