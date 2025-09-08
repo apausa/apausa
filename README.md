@@ -40,13 +40,13 @@
 
 ### 2021
 
-- webHackaton — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
-- webPoems —  Social network proof of concept for users to write collections of poems and short stories.  
-- webReminders — Frontend application where users can write reminders.  
-- webLyrics — Application where users can read, save and filter song lyrics.  
-- webPokedex — Pokédex built with Vanilla JavaScript and SCSS.  
-- webGameOfLife — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
+- [webHackaton](https://github.com/apausa/webHackaton) — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
+- [webPoems](https://github.com/apausa/webPoems) —  Social network proof of concept for users to write collections of poems and short stories.  
+- [webReminders](https://github.com/apausa/webReminders) — Frontend application where users can write reminders.  
+- [webLyrics](https://github.com/apausa/webLyrics) — Application where users can read, save and filter song lyrics.  
+- [webPokedex](https://github.com/apausa/webPokedex) — Pokédex built with Vanilla JavaScript and SCSS.  
+- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
 
 ### 2020
 
-- cLanguage — Initial exercises in C and Bash 
+- [cLanguage](https://github.com/apausa/cLanguage) — Initial exercises in C and Bash 
