@@ -30,23 +30,23 @@
 
 ### 2023
 
-monteCarloSimulationsDashboard — A locally hosted web application for ALICE researchers at CERN to manage Monte Carlo methods.
-generativeArt — 
+- monteCarloSimulationsDashboard — A locally hosted web application for ALICE researchers at CERN to manage Monte Carlo methods.
+- generativeArt — 
 
 ### 2022
 
-deepDiveIntoBlockchain — 
-universitiesDirectory — 
+- deepDiveIntoBlockchain — 
+- universitiesDirectory — 
 
 ### 2021
 
-webHackaton — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
-webPoems —  Social network proof of concept for users to write collections of poems and short stories.  
-webReminders — Frontend application where users can write reminders.  
-webLyrics — Application where users can read, save and filter song lyrics.  
-webPokedex — Pokédex built with Vanilla JavaScript and SCSS.  
-webGameOfLife — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
+- webHackaton — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
+- webPoems —  Social network proof of concept for users to write collections of poems and short stories.  
+- webReminders — Frontend application where users can write reminders.  
+- webLyrics — Application where users can read, save and filter song lyrics.  
+- webPokedex — Pokédex built with Vanilla JavaScript and SCSS.  
+- webGameOfLife — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
 
 ### 2021
 
-cLanguage — Initial exercises in C and Bash 
+- cLanguage — Initial exercises in C and Bash 
