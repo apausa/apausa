@@ -41,10 +41,10 @@ universitiesDirectory —
 ### 2021
 
 webHackaton — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
-webPoems —  Social network proof of concept for users to write collections of poems and short stories.
-webReminders — Frontend application where users can write reminders.
-webLyrics — Application where users can read, save and filter song lyrics.
-webPokedex — Pokédex built with Vanilla JavaScript and SCSS.
+webPoems —  Social network proof of concept for users to write collections of poems and short stories.  
+webReminders — Frontend application where users can write reminders.  
+webLyrics — Application where users can read, save and filter song lyrics.  
+webPokedex — Pokédex built with Vanilla JavaScript and SCSS.  
 webGameOfLife — John Conway's Game of Life built with Vanilla JavaScript and SCSS.  
 
 ### 2021
