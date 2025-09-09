@@ -17,7 +17,6 @@
 
 ### 2025
 
-Pursuing a career in research on Artificial Intelligence. 
 - Neural Networks — TBD
 - Computer Vision — TBD
 - Reasoning Models — TBD
@@ -28,24 +27,20 @@ Pursuing a career in research on Artificial Intelligence.
 
 ### 2024
 
-Exclusively focused on pursuing my bachelor's degree in Softare Development.
 - [CURATING]
 
 ### 2023
 
-Mostly worked on completing my bachelor's degree in Digital Design, also landed an internship at CERN.
 - [monteCarloSimulationsDashboard](https://github.com/apausa/monteCarloSimulationsDashboard) — A locally hosted web application for ALICE researchers at CERN to manage Monte Carlo methods.
 - [creativeCoding](https://github.com/apausa/creativeCoding) — Creative coding and generative art exercises in p5.js. 
 
 ### 2022
 
-Decided to leave my first job in Barcelona so I could focus on university. 
 - [universitiesDirectory](https://github.com/apausa/universityDirectory) — Directory of spanish universities with an infinite scroll.
 - [deepDiveIntoBlockchain](https://github.com/apausa/uzhBlockchain) — Collaboration with a team of students on a blockchain-based solution supported by Hedera, to verify real users in its hashgraph consensus.  
 
 ### 2021
 
-Landed my first job thanks to an exhaustive portfolio of web and mobile applications. 
 - [webHackaton](https://github.com/apausa/webHackaton) — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
 - [webPoems](https://github.com/apausa/webPoems) —  Social network proof of concept for users to write collections of poems and short stories.  
 - [webReminders](https://github.com/apausa/webReminders) — Frontend application where users can write reminders.  
