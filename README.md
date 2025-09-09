@@ -50,5 +50,4 @@
 
 ### 2020
 
-This is when I discovered my passion for solving problems through technology.
 - [cLanguage](https://github.com/apausa/cLanguage) — Initial exercises in C and Bash 
