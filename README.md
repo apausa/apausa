@@ -17,13 +17,13 @@
 
 ### 2025
 
-- Neural Networks — TBD
-- Computer Vision — TBD
-- Reasoning Models — TBD
-- Web Science — TBD
-- Deep Learning — TBD
-- Machine Learning — TBD
-- Explainable Artificial Intelligence — TBD
+- [Neural Networks](https://github.com/apausa/neuralNetworks) — TBD
+- [Computer Vision](https://github.com/apausa/computerVision) — TBD
+- [Reasoning Models](https://github.com/apausa/reasoningModels) — TBD
+- [Web Science](https://github.com/apausa/webScience) — TBD
+- [Natural Language Processing](https://github.com/apausa/naturalLanguageProcessing) — TBD
+- [Machine Learning](https://github.com/apausa/machineLearning) — TBD
+- [Explainable Artificial Intelligence](https://github.com/apausa/explainableArtificialIntelligence) — TBD
 - [Personal website](https://github.com/apausa/personalWebsite) - [apausa.dev](https://apausa.dev)
 
 ### 2024
