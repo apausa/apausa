@@ -42,12 +42,12 @@
 
 ### 2021
 
-- [webHackaton](https://github.com/apausa/webHackaton) — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
-- [webPoems](https://github.com/apausa/webPoems) —  Social network proof of concept for users to write collections of poems and short stories.  
-- [webReminders](https://github.com/apausa/webReminders) — Frontend application where users can write reminders. 
-- [webLyrics](https://github.com/apausa/webLyrics) — Application where users can read, save and filter song lyrics. 
-- [webPokedex](https://github.com/apausa/webPokedex) — Pokédex built with Vanilla JavaScript.
-- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with Vanilla JavaScript.
+- [webHackaton](https://github.com/apausa/webHackaton) — Data science project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
+- [webPoems](https://github.com/apausa/webPoems) —  Social network proof of concept for users to write collections of poems.
+- [webLyrics](https://github.com/apausa/webLyrics) — Application where users can read, save and filter song lyrics.
+- [webReminders](https://github.com/apausa/webReminders) — Application where users can write reminders. 
+- [webPokedex](https://github.com/apausa/webPokedex) — Built with Vanilla JavaScript, fetching data from PokéAPI.
+- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with JavaScript.
 
 ### 2020
 
