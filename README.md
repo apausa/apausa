@@ -38,16 +38,16 @@
 ### 2022
 
 - [universitiesDirectory](https://github.com/apausa/universityDirectory) — Directory of spanish universities with an infinite scroll.
-- [deepDiveIntoBlockchain](https://github.com/apausa/uzhBlockchain) — Blockchain-based solution to verify real users in Hedera hashgraph consensus.  
+- [uzhBlockchain](https://github.com/apausa/uzhBlockchain) — Blockchain-based solution to verify real users in Hedera hashgraph consensus.  
 
 ### 2021
 
 - [webHackaton](https://github.com/apausa/webHackaton) — Interdisciplinary project for JUMP2DIGITAL Hackathon organized by MWC Barcelona.  
 - [webPoems](https://github.com/apausa/webPoems) —  Social network proof of concept for users to write collections of poems and short stories.  
-- [webReminders](https://github.com/apausa/webReminders) — Frontend application where users can write reminders.  
-- [webLyrics](https://github.com/apausa/webLyrics) — Application where users can read, save and filter song lyrics.  
-- [webPokedex](https://github.com/apausa/webPokedex) — Pokédex built with Vanilla JavaScript and SCSS.  
-- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with Vanilla JavaScript and SCSS.
+- [webReminders](https://github.com/apausa/webReminders) — Frontend application where users can write reminders. 
+- [webLyrics](https://github.com/apausa/webLyrics) — Application where users can read, save and filter song lyrics. 
+- [webPokedex](https://github.com/apausa/webPokedex) — Pokédex built with Vanilla JavaScript.
+- [webGameOfLife](https://github.com/apausa/webGameOfLife) — John Conway's Game of Life built with Vanilla JavaScript.
 
 ### 2020
 
