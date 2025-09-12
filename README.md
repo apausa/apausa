@@ -23,7 +23,7 @@
 - Web Science — TBD
 - Deep Learning — TBD
 - Machine Learning — TBD
-- Explainable AI — TBD
+- Explainable Artificial Intelligence — TBD
 - [Personal website](https://github.com/apausa/personalWebsite) - [apausa.dev](https://apausa.dev)
 
 ### 2024
