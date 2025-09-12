@@ -32,7 +32,7 @@
 
 ### 2023
 
-- [monteCarloSimulationsDashboard](https://github.com/apausa/monteCarloSimulationsDashboard) — A locally hosted web application for ALICE researchers at CERN to manage Monte Carlo methods.
+- [monteCarloSimulationsDashboard](https://github.com/apausa/monteCarloSimulationsDashboard) — A web application for ALICE researchers at CERN to manage Monte Carlo methods.
 - [creativeCoding](https://github.com/apausa/creativeCoding) — Creative coding and generative art exercises in p5.js. 
 
 ### 2022
