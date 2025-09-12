@@ -17,6 +17,7 @@
 
 ### 2025
 
+- [Personal website](https://github.com/apausa/personalWebsite) - Deployed in [apausa.dev](https://apausa.dev) domain
 - [Neural Networks](https://github.com/apausa/neuralNetworks) — TBD
 - [Computer Vision](https://github.com/apausa/computerVision) — TBD
 - [Reasoning Models](https://github.com/apausa/reasoningModels) — TBD
@@ -24,7 +25,6 @@
 - [Natural Language Processing](https://github.com/apausa/naturalLanguageProcessing) — TBD
 - [Machine Learning](https://github.com/apausa/machineLearning) — TBD
 - [Explainable Artificial Intelligence](https://github.com/apausa/explainableArtificialIntelligence) — TBD
-- [Personal website](https://github.com/apausa/personalWebsite) - [apausa.dev](https://apausa.dev)
 
 ### 2024
 
