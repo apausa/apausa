@@ -28,7 +28,13 @@
 
 ### 2024
 
-- [CURATING]
+- [twitterClone](https://github.com/apausa/twitterClone) — Twitter clone developed with Vue.js framework.
+- [storageSystem](https://github.com/apausa/storageSystem) — Storage system developed with Java using different data structures.
+- [softwareArchitecture](https://github.com/apausa/softwareArchitecture) — Microservices architecture with Java. 
+- [uocEducationalPlatform](https://github.com/apausa/uocEducationalPlatform) — Development of an Educational Platform using Java.
+- [uocMastermindGame](https://github.com/apausa/uocMastermindGame) — A set of subroutines in assembly language x86_64.
+- [uocSevenAndAHalf](https://github.com/apausa/uocSevenAndAHalf) — Seven and a Half card game with processes developed with C. 
+
 
 ### 2023
 
