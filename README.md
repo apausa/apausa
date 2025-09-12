@@ -38,7 +38,7 @@
 ### 2022
 
 - [universitiesDirectory](https://github.com/apausa/universityDirectory) — Directory of spanish universities with an infinite scroll.
-- [deepDiveIntoBlockchain](https://github.com/apausa/uzhBlockchain) — Collaboration with a team of students on a blockchain-based solution supported by Hedera, to verify real users in its hashgraph consensus.  
+- [deepDiveIntoBlockchain](https://github.com/apausa/uzhBlockchain) — Blockchain-based solution to verify real users in Hedera hashgraph consensus.  
 
 ### 2021
 
