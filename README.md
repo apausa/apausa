@@ -11,3 +11,5 @@
 💬 Ask me about computer science, machine learning or interaction design  
 📫 How to reach me: pablo[at]apausa[dot]dev  
 😄 Pronouns: he/him 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablu&show_icons=true&theme=dracula)
