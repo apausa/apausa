@@ -15,5 +15,3 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apausa&theme=dracula&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apausa&layout=compact)
