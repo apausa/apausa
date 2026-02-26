@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### I'm a software engineer and designer based in Madrid, Spain
+### I'm a software engineer and designer based in Geneva, Switzerland
 
 🔭 I’m currently working on different projects  
 🌱 And learning Artificial Intelligence at Technical University of Madrid  
