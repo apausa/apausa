@@ -4,8 +4,8 @@
 
 ### I'm a software engineer and designer based in Geneva, Switzerland
 
-🔭 I’m currently working for the Future Circular Collider Study at CERN
-🌱 And researching Artificial Intelligence
+🔭 I’m currently working for the Future Circular Collider Study at CERN  
+🌱 And researching Artificial Intelligence  
 👯 I’m looking to collaborate on creative coding  
 🤔 And for help with new ideas  
 💬 Ask me about computer science, machine learning or interaction design  
