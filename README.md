@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### I'm a software engineer and designer based in Geneva, Switzerland
+### I'm an AI Engineer based in Geneva, Switzerland
 
 🔭 I’m currently working for the Future Circular Collider Study at CERN  
 🌱 And researching Artificial Intelligence  
