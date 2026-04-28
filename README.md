@@ -8,7 +8,7 @@
 🌱 And researching Artificial Intelligence  
 👯 I’m looking to collaborate on creative coding  
 🤔 And for help with new ideas  
-💬 Ask me about computer vision ort deep learning  
+💬 Ask me about computer vision or deep learning  
 📫 How to reach me: pablo[at]apausa[dot]dev  
 😄 Pronouns: he/him 
 
