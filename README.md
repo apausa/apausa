@@ -8,7 +8,7 @@
 🌱 And researching Artificial Intelligence  
 👯 I’m looking to collaborate on creative coding  
 🤔 And for help with new ideas  
-💬 Ask me about interaction design or software development
+💬 Ask me about interaction design or software development  
 📫 How to reach me: pablo[at]apausa[dot]dev  
 😄 Pronouns: he/him 
 
