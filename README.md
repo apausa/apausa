@@ -1,4 +1,4 @@
-#### Recent Projects and Contributions
+#### Recent projects and contributions
 
 - [eedE](https://github.com/key4hep/eede) – a web-based visualization tool for EDM4hep event content.
 - [Phenix](https://github.com/HSF/phoenix/) – an event display framework.
@@ -7,4 +7,4 @@
 - [k4geo](https://github.com/key4hep/k4geo/) – stores DD4hep-based geometry models of the future collider detector concepts.
 - [SCED](https://github.com/apausa/SCED) – a desktop-based application to visualize detector geometries and event data.
 
-#### Below you can find a selection of other personal projects. 
+#### Below you can find a selection of other personal projects
