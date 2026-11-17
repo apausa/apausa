@@ -1,3 +1,3 @@
-# [Pablo Apausa](https://apausa.dev/){:target="\_blank"}
+# [Pablo Apausa](https://apausa.dev/)
 
 ## Hi there 👋
