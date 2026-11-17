@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=apausa&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=apausa&show_icons=true&include_all_commits=true&theme=transparent)
+
 #### Recent Projects and Contributions
 
 - [eedE](https://github.com/key4hep/eede): a web-based visualization tool for EDM4hep event content.
