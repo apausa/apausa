@@ -2,7 +2,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=apausa&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=apausa&show_icons=true&include_all_commits=true&theme=transparent)
 
-#### Recent Projects and Contributions
+#### Recent Projects and Contributions at CERN
 
 - [eedE](https://github.com/key4hep/eede) – a web-based visualization tool for EDM4hep event content.
 - [Phenix](https://github.com/HSF/phoenix/) – an event display framework.
@@ -12,3 +12,6 @@
 - [SCED](https://github.com/apausa/SCED) – a desktop-based application to visualize detector geometries and event data.
 
 #### Pinned Projects
+
+You can find a selection of personal projects below and in the [respositories section](https://github.com/apausa?tab=repositories).
+
