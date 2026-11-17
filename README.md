@@ -1,3 +1,14 @@
+### Hi there 👋
+
+- 🔭 I’m currently working on the FCC Study.
+- 🌱 I’m currently learning Artificial Intelligence.
+- 👯 I’m looking to collaborate on anything creative!
+- 🤔 I’m looking for help with ML research.
+- 💬 Ask me about deep learning, computer vision, and digital humanities.
+- 📫 How to reach me: pablo.apausa[at]cern.ch.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I know what androids dream about.
+
 #### Recent projects and contributions
 
 - [`eedE`](https://github.com/key4hep/eede) – a web-based visualization tool for EDM4hep event content.
