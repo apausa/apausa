@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the FCC Study.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🌱 And learning Artificial Intelligence.
 - 👯 I’m looking to collaborate on anything creative!
-- 🤔 I’m looking for help with ML research.
+- 🤔 And specially for help with ML research.
 - 💬 Ask me about deep learning, computer vision, and digital humanities.
 - 📫 How to reach me: pablo.apausa[at]cern.ch.
 - 😄 Pronouns: he/him.
