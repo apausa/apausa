@@ -11,4 +11,4 @@
 - [k4geo](https://github.com/key4hep/k4geo/) – stores DD4hep-based geometry models of the future collider detector concepts.
 - [SCED](https://github.com/apausa/SCED) – a desktop-based application to visualize detector geometries and event data.
 
-#### You can find more projects below
+You can find more projects below...
